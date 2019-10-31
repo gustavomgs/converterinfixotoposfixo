@@ -1,7 +1,15 @@
-## Converter operação Infixo em uma operação Posfixo
+## Conversor operação Infixa em operação Posfixa
 <hr>
 ### Programa em C para converter uma operação Infixa em Posfixa
 <br>
+<br>Faculdade de Técnologia de Americana
+<br>Curso: Análise e desenvolvimento de Sistemas
+<br>3º Semestre
+<br>Matéria: Estrutura de Dados
+<br>Professor: Toni
+<br>Alunos: Gustavo Messias Guimarães da Silva - 0040481821039
+<br>        Flávio Júnior - 0040481821004
+
 <li>Para compilar e rodar execute essas etapas:</li>
 <br>
 
