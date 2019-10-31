@@ -8,6 +8,6 @@
 $  gcc posfixa.c -o posfixa
 $ ./posfixa
 ``` 
-<br>
-Digite a operação -infixo e o programa retornará -posfixo.
+
+> Digite a operação -infixo e o programa retornará -posfixo.
   
