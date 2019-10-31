@@ -1,6 +1,6 @@
 ## Conversor operação Infixa em operação Posfixa
 <hr>
-### Programa em C para converter uma operação Infixa em Posfixa
+<h4>Programa em C para converter uma operação Infixa em Posfixa</h4>
 <br>
 <br>Faculdade de Técnologia de Americana
 <br>Curso: Análise e desenvolvimento de Sistemas
